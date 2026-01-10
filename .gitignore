@@ -1,0 +1,12 @@
+# Ignorar carpetas temporales de Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+
+# Ignorar archivos de compilación pesados
+*.ipch
+*.sdf
+*.opensdf
+*.pdb
+*.obj
